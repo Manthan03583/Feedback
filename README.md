@@ -59,7 +59,7 @@ Ensure you have the following installed:
     * Navigate to the frontend directory:
 
         ```bash
-        cd ../feedback_frontend
+        cd feedback_frontend
         ```
 
     * Install dependencies:
